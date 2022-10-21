@@ -19,6 +19,9 @@
 -->
 ## Upcoming Release
 
+## Version 1.3.2
+* Update
+
 ## Version 1.3.1
 * Made GraphAccessToken parameter obsolete in Register-AzStackHCI, Unregister-AzStackHCI and Set-AzStackHCI cmdlets. This is because Az.StackHCI module does not depend on Azure AD anymore.
 * Include API version for all Microsoft.AzStackHCI related AZ-Resource calls
